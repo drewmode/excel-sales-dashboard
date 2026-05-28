@@ -15,4 +15,4 @@ Create a dynamic dashboard to visualize business performance.
 👉 DA_DASHBOARD.xlsx
 
 ## 📸 Dashboard Preview
-(Add screenshot here later)
+<img width="1223" height="423" alt="SalesDate Dashboard" src="https://github.com/user-attachments/assets/ccbd096b-604f-43b6-b249-41dc6e0e680a" />
